@@ -7,17 +7,17 @@
         mc:Ignorable="d"
         Title="Admin" Height="581" Width="899">
     <Grid>
-        <ComboBox x:Name="Status" HorizontalAlignment="Left" Margin="207,380,0,0" VerticalAlignment="Top" Width="258" Height="28" FontSize="18">
+        <ComboBox x:Name="Status" HorizontalAlignment="Left" Margin="22,23,0,0" VerticalAlignment="Top" Width="258" Height="28" FontSize="18">
             <ComboBoxItem >В работе</ComboBoxItem>
             <ComboBoxItem >Выполнено"</ComboBoxItem>
         </ComboBox>
-        <ComboBox Foreground="White" x:Name="Performer" HorizontalAlignment="Left" Margin="207,439,0,0" VerticalAlignment="Top" Width="258" FontSize="18">
+        <ComboBox x:Name="Performer" HorizontalAlignment="Left" Margin="22,70,0,0" VerticalAlignment="Top" Width="258" FontSize="18">
             <ComboBoxItem>ООО "Ремонт72"</ComboBoxItem>
             <ComboBoxItem>ООО "Делай 72"</ComboBoxItem>
         </ComboBox>
-        <TextBlock  Foreground="White" HorizontalAlignment="Left" Height="28" Margin="31,378,0,0" TextWrapping="Wrap" Text="Статус заявки:" VerticalAlignment="Top" Width="121" FontSize="16"/>
-        <TextBlock Foreground="White" HorizontalAlignment="Left" Height="28" Margin="31,438,0,0" TextWrapping="Wrap" Text="Исполнитель:" VerticalAlignment="Top" Width="171" FontSize="16"/>
-        <DataGrid x:Name="dataGridView1" AutoGenerateColumns="False"  Margin="31,66,74,233">
+        <TextBlock  HorizontalAlignment="Left" Height="35" Margin="22,0,0,0" TextWrapping="Wrap" Text="Статус заявки:" VerticalAlignment="Top" Width="107" FontSize="16"/>
+        <TextBlock  HorizontalAlignment="Left" Height="28" Margin="22,51,0,0" TextWrapping="Wrap" Text="Исполнитель:" VerticalAlignment="Top" Width="170" FontSize="16"/>
+        <DataGrid x:Name="dataGridView1" AutoGenerateColumns="False"  Margin="10,165,10,10">
             <DataGrid.Columns >
                 <DataGridTextColumn Width="*" Header="ID" Binding="{Binding ID_Application}"/>
                 <DataGridTextColumn Width="*"  Header="Дата" Binding="{Binding Date}"/>
@@ -29,8 +29,8 @@
                 <DataGridTextColumn Width="*"  Header="Исполнитель" Binding="{Binding Performer}"/>
             </DataGrid.Columns>
         </DataGrid>
-        <TextBlock Foreground="White" HorizontalAlignment="Left" Height="28" Margin="31,33,0,0" TextWrapping="Wrap" Text="Текущие заявки:" VerticalAlignment="Top" Width="145" FontSize="18"/>
-        <Button Content="Удалить" HorizontalAlignment="Left" Margin="547,433,0,0" VerticalAlignment="Top" Height="22" Width="128" Click="Button_Click" />
-        <Button Content="Сохранить" HorizontalAlignment="Left" Margin="547,375,0,0" VerticalAlignment="Top" Height="22" Width="128" Click="Button_Click_1" />
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="10,137,0,0" TextWrapping="Wrap" Text="Текущие заявки:" VerticalAlignment="Top" Width="145" FontSize="14"/>
+        <Button Content="Удалить" HorizontalAlignment="Left" Margin="300,70,0,0" VerticalAlignment="Top" Height="30" Width="128" Click="Button_Click" />
+        <Button Content="Сохранить" HorizontalAlignment="Left" Margin="300,23,0,0" VerticalAlignment="Top" Height="28" Width="128" Click="Button_Click_1" />
     </Grid>
 </Window>

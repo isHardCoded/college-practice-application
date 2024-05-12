@@ -26,7 +26,7 @@ namespace DEMO
         {
             InitializeComponent();
             dataBase.openConnection();
-            string cmd = "SELECT * FROM Application inner join Performers on Application.IDPerformer=Performers.ID where ID_User='" + DataBase.FIO + "'";
+            string cmd = "SELECT * FROM Tasks inner join Performers on Tasks.ID_Performer=Performers.ID where ID_User='" + DataBase.FIO + "'";
             SqlCommand createCommand = new SqlCommand(cmd, dataBase.getConnection());
             SqlDataAdapter dataAdp = new SqlDataAdapter(createCommand);
             DataTable dt = new DataTable();
@@ -44,14 +44,14 @@ namespace DEMO
             if (Equipment.Text != "" && Disrepair.Text != "" && Description.Text != "")
             {
 
-                string querystrin = $"insert into Application(Date,Equipment,Disrepair,Description, ID_User, Status, IDPerformer) values('{currentDate}','{Equipment.Text}','{Disrepair.Text}','{Description.Text}','{DataBase.FIO}','В ожидание',{3})";
+                string querystrin = $"insert into Tasks(Date,Equipment,Disrepair,Description, ID_User, Status, ID_Performer) values('{currentDate}','{Equipment.Text}','{Disrepair.Text}','{Description.Text}','{DataBase.FIO}','В ожидание',{3})";
                 SqlCommand comman = new SqlCommand(querystrin, dataBase.getConnection());
                 dataBase.openConnection();
                 if (comman.ExecuteNonQuery() == 1)
                 {
                     MessageBox.Show("Вы успешно добавили заявку");
                     dataBase.openConnection();
-                    string cmd = "SELECT * FROM Application where ID_User='" + DataBase.FIO + "'";
+                    string cmd = "SELECT * FROM Tasks where ID_User='" + DataBase.FIO + "'";
                     SqlCommand createCommand = new SqlCommand(cmd, dataBase.getConnection());
                     SqlDataAdapter dataAdp = new SqlDataAdapter(createCommand);
                     DataTable dt = new DataTable();

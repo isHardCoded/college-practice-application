@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="VhodAdmin" Height="450" Width="800">
     <Grid>
-        <TextBox x:Name="Login" HorizontalAlignment="Center" Margin="0,119,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="148" Height="22" Foreground="White"/>
+        <TextBox x:Name="Login" HorizontalAlignment="Center" Margin="0,119,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="148" Height="22"/>
         <PasswordBox PasswordChar="*" x:Name="Password" HorizontalAlignment="Center"  VerticalAlignment="Top" Width="148" Height="22" Margin="0,167,0,0"/>
         <TextBlock HorizontalAlignment="Left" Margin="326,103,0,0" TextWrapping="Wrap" Text="Логин" VerticalAlignment="Top" />
         <TextBlock HorizontalAlignment="Left" Margin="326,146,0,0" TextWrapping="Wrap" Text="Пароль" VerticalAlignment="Top" Height="21"/>

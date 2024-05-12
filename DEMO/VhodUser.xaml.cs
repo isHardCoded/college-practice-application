@@ -32,7 +32,7 @@ namespace DEMO
         {
             SqlDataAdapter adapter = new SqlDataAdapter();
             DataTable table = new DataTable();
-            string querystring = $"select Name, Login, Password from [User] where Login = '{Login.Text}' and Password = '{Password.Password}'";
+            string querystring = $"select Name, Login, Password from [Users] where Login = '{Login.Text}' and Password = '{Password.Password}'";
             SqlCommand command = new SqlCommand(querystring, dataBase.getConnection());
             adapter.SelectCommand = command;
             adapter.Fill(table);

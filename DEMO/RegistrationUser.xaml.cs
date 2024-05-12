@@ -34,7 +34,7 @@ namespace DEMO
             {
                 if (chek())
                 {
-                    string querystrin = $"insert into [User](Name,Number,Login,Password) values('{FIO.Text}','{Number.Text}','{Login.Text}','{Password.Password}')";
+                    string querystrin = $"insert into [Users](Name,Number,Login,Password) values('{FIO.Text}','{Number.Text}','{Login.Text}','{Password.Password}')";
                     SqlCommand comman = new SqlCommand(querystrin, dataBase.getConnection());
                     dataBase.openConnection();
                     if (comman.ExecuteNonQuery() == 1)
@@ -58,7 +58,7 @@ namespace DEMO
         {
             SqlDataAdapter dataAdapter = new SqlDataAdapter();
             DataTable dataTable = new DataTable();
-            string querystring = $"select Login from [User] where Name = '{Login.Text}'";
+            string querystring = $"select Login from [Users] where Name = '{Login.Text}'";
             SqlCommand command = new SqlCommand(querystring, dataBase.getConnection());
             dataAdapter.SelectCommand = command;
             dataAdapter.Fill(dataTable);
