@@ -1,0 +1,36 @@
+﻿<Window x:Class="DEMO.Admin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DEMO"
+        mc:Ignorable="d"
+        Title="Admin" Height="581" Width="899">
+    <Grid>
+        <ComboBox x:Name="Status" HorizontalAlignment="Left" Margin="207,380,0,0" VerticalAlignment="Top" Width="258" Height="28" FontSize="18">
+            <ComboBoxItem >В работе</ComboBoxItem>
+            <ComboBoxItem >Выполнено"</ComboBoxItem>
+        </ComboBox>
+        <ComboBox Foreground="White" x:Name="Performer" HorizontalAlignment="Left" Margin="207,439,0,0" VerticalAlignment="Top" Width="258" FontSize="18">
+            <ComboBoxItem>ООО "Ремонт72"</ComboBoxItem>
+            <ComboBoxItem>ООО "Делай 72"</ComboBoxItem>
+        </ComboBox>
+        <TextBlock  Foreground="White" HorizontalAlignment="Left" Height="28" Margin="31,378,0,0" TextWrapping="Wrap" Text="Статус заявки:" VerticalAlignment="Top" Width="121" FontSize="16"/>
+        <TextBlock Foreground="White" HorizontalAlignment="Left" Height="28" Margin="31,438,0,0" TextWrapping="Wrap" Text="Исполнитель:" VerticalAlignment="Top" Width="171" FontSize="16"/>
+        <DataGrid x:Name="dataGridView1" AutoGenerateColumns="False"  Margin="31,66,74,233">
+            <DataGrid.Columns >
+                <DataGridTextColumn Width="*" Header="ID" Binding="{Binding ID_Application}"/>
+                <DataGridTextColumn Width="*"  Header="Дата" Binding="{Binding Date}"/>
+                <DataGridTextColumn Width="*"  Header="Оборудование" Binding="{Binding Equipment}"/>
+                <DataGridTextColumn Width="*"  Header="Неисправность" Binding="{Binding Disrepair}"/>
+                <DataGridTextColumn Width="*"  Header="Описание" Binding="{Binding Description}"/>
+                <DataGridTextColumn Width="*"  Header="Клиент" FontSize="15" Binding="{Binding ID_User}"/>
+                <DataGridTextColumn Width="*"  Header="Статус заявки" Binding="{Binding Status}"/>
+                <DataGridTextColumn Width="*"  Header="Исполнитель" Binding="{Binding Performer}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBlock Foreground="White" HorizontalAlignment="Left" Height="28" Margin="31,33,0,0" TextWrapping="Wrap" Text="Текущие заявки:" VerticalAlignment="Top" Width="145" FontSize="18"/>
+        <Button Content="Удалить" HorizontalAlignment="Left" Margin="547,433,0,0" VerticalAlignment="Top" Height="22" Width="128" Click="Button_Click" />
+        <Button Content="Сохранить" HorizontalAlignment="Left" Margin="547,375,0,0" VerticalAlignment="Top" Height="22" Width="128" Click="Button_Click_1" />
+    </Grid>
+</Window>
