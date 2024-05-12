@@ -10,7 +10,7 @@ namespace DEMO
     internal class DataBase
     {
         static public string FIO;
-        SqlConnection sqlConnection = new SqlConnection(@"Data Source=ISHARDCODED\SQLEXPRESS;Initial Catalog=DemoEx; Integrated Security=True");
+        SqlConnection sqlConnection = new SqlConnection(@"Data Source=ISHARDCODED;Initial Catalog=DemoEx; Integrated Security=True");
 
         public void openConnection()
         {

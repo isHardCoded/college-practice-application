@@ -57,3 +57,32 @@ C:\Users\Кирилл\Desktop\DEMO\DEMO\obj\Debug\DEMO.csproj.GenerateResource.c
 C:\Users\Кирилл\Desktop\DEMO\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
 C:\Users\Кирилл\Desktop\DEMO\DEMO\obj\Debug\DEMO.exe
 C:\Users\Кирилл\Desktop\DEMO\DEMO\obj\Debug\DEMO.pdb
+D:\Coding\Wpf Apps\college-practice-application\DEMO\bin\Debug\DEMO.exe.config
+D:\Coding\Wpf Apps\college-practice-application\DEMO\bin\Debug\DEMO.exe
+D:\Coding\Wpf Apps\college-practice-application\DEMO\bin\Debug\DEMO.pdb
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\DEMO.csproj.AssemblyReference.cache
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\Admin.g.cs
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\MainWindow.g.cs
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\Performer.g.cs
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\RegistrationUser.g.cs
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\User.g.cs
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\VhodAdmin.g.cs
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\VhodPerformer.g.cs
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\VhodUser.g.cs
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\App.g.cs
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\DEMO_MarkupCompile.cache
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\DEMO_MarkupCompile.lref
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\Admin.baml
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\MainWindow.baml
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\Performer.baml
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\RegistrationUser.baml
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\User.baml
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\VhodAdmin.baml
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\VhodPerformer.baml
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\VhodUser.baml
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\DEMO.g.resources
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\DEMO.exe
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\DEMO.pdb

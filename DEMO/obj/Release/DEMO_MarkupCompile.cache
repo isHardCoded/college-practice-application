@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Debug\
+D:\Coding\Wpf Apps\college-practice-application\DEMO\obj\Release\
 DEMO
 none
 false
-DEBUG;TRACE
+TRACE
 D:\Coding\Wpf Apps\college-practice-application\DEMO\App.xaml
 8-1006243264
 
-14-990698069
+131091390549
 13-1310406943
 Admin.xaml;MainWindow.xaml;Performer.xaml;RegistrationUser.xaml;User.xaml;VhodAdmin.xaml;VhodPerformer.xaml;VhodUser.xaml;
 
-False
+True
 

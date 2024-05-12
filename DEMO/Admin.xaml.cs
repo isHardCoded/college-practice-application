@@ -150,7 +150,7 @@ namespace DEMO
                 if (rowToDelete != null)
                 {
                     dataBase.openConnection();
-                    string cmd = "DELETE FROM Application WHERE ID_Application = @ID";
+                    string cmd = "DELETE FROM Tasks WHERE ID_Application = @ID";
                     SqlCommand createCommand = new SqlCommand(cmd, dataBase.getConnection());
                     createCommand.Parameters.AddWithValue("@ID", id);
                     createCommand.ExecuteNonQuery();
@@ -164,7 +164,7 @@ namespace DEMO
         private void RefreshDataGrid()
         {
             dataBase.openConnection();
-            string cmd = "SELECT * FROM Application inner join Performers on Application.IDPerformer=Performers.ID ";
+            string cmd = "SELECT * FROM Tasks inner join Performers on Tasks.ID_Performer=Performers.ID ";
             SqlCommand createCommand = new SqlCommand(cmd, dataBase.getConnection());
             SqlDataAdapter dataAdp = new SqlDataAdapter(createCommand);
             DataTable dt = new DataTable();

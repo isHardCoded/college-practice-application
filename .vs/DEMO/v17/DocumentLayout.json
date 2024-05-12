@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\Wpf Apps\\college-practice-application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|d:\\coding\\wpf apps\\college-practice-application\\demo\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|solutionrelative:demo\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|D:\\Coding\\Wpf Apps\\college-practice-application\\demo\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|solutionrelative:demo\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|D:\\Coding\\Wpf Apps\\college-practice-application\\demo\\vhodadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|solutionrelative:demo\\vhodadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|D:\\Coding\\Wpf Apps\\college-practice-application\\demo\\vhodadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|solutionrelative:demo\\vhodadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|D:\\Coding\\Wpf Apps\\college-practice-application\\demo\\user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|solutionrelative:demo\\user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|D:\\Coding\\Wpf Apps\\college-practice-application\\demo\\vhoduser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|solutionrelative:demo\\vhoduser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|D:\\Coding\\Wpf Apps\\college-practice-application\\demo\\registrationuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|solutionrelative:demo\\registrationuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|D:\\Coding\\Wpf Apps\\college-practice-application\\demo\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|solutionrelative:demo\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|D:\\Coding\\Wpf Apps\\college-practice-application\\demo\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|solutionrelative:demo\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|D:\\Coding\\Wpf Apps\\college-practice-application\\demo\\performer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|solutionrelative:demo\\performer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|D:\\Coding\\Wpf Apps\\college-practice-application\\demo\\registrationuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|solutionrelative:demo\\registrationuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|D:\\Coding\\Wpf Apps\\college-practice-application\\demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|solutionrelative:demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|D:\\Coding\\Wpf Apps\\college-practice-application\\demo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|solutionrelative:demo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|D:\\Coding\\Wpf Apps\\college-practice-application\\demo\\vhoduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|solutionrelative:demo\\vhoduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|D:\\Coding\\Wpf Apps\\college-practice-application\\demo\\vhodperformer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{07D86031-E39C-445B-93A8-6F1D54B89911}|DEMO\\DEMO.csproj|solutionrelative:demo\\vhodperformer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\Admin.xaml",
+              "RelativeDocumentMoniker": "DEMO\\Admin.xaml",
+              "ToolTip": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\Admin.xaml",
+              "RelativeToolTip": "DEMO\\Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T15:29:09.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "DEMO\\Admin.xaml.cs",
+              "ToolTip": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\Admin.xaml.cs",
+              "RelativeToolTip": "DEMO\\Admin.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAMwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:13:55.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VhodAdmin.xaml.cs",
+              "DocumentMoniker": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\VhodAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "DEMO\\VhodAdmin.xaml.cs",
+              "ToolTip": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\VhodAdmin.xaml.cs",
+              "RelativeToolTip": "DEMO\\VhodAdmin.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:13:02.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VhodUser.xaml.cs",
+              "DocumentMoniker": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\VhodUser.xaml.cs",
+              "RelativeDocumentMoniker": "DEMO\\VhodUser.xaml.cs",
+              "ToolTip": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\VhodUser.xaml.cs",
+              "RelativeToolTip": "DEMO\\VhodUser.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwCIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:48:36.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrationUser.xaml.cs",
+              "DocumentMoniker": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\RegistrationUser.xaml.cs",
+              "RelativeDocumentMoniker": "DEMO\\RegistrationUser.xaml.cs",
+              "ToolTip": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\RegistrationUser.xaml.cs",
+              "RelativeToolTip": "DEMO\\RegistrationUser.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwCcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:33:27.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\DataBase.cs",
+              "RelativeDocumentMoniker": "DEMO\\DataBase.cs",
+              "ToolTip": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\DataBase.cs",
+              "RelativeToolTip": "DEMO\\DataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:05:54.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.xaml",
+              "DocumentMoniker": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\User.xaml",
+              "RelativeDocumentMoniker": "DEMO\\User.xaml",
+              "ToolTip": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\User.xaml",
+              "RelativeToolTip": "DEMO\\User.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T15:29:07.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Performer.xaml",
+              "DocumentMoniker": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\Performer.xaml",
+              "RelativeDocumentMoniker": "DEMO\\Performer.xaml",
+              "ToolTip": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\Performer.xaml",
+              "RelativeToolTip": "DEMO\\Performer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T15:29:09.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistrationUser.xaml",
+              "DocumentMoniker": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\RegistrationUser.xaml",
+              "RelativeDocumentMoniker": "DEMO\\RegistrationUser.xaml",
+              "ToolTip": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\RegistrationUser.xaml",
+              "RelativeToolTip": "DEMO\\RegistrationUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T15:29:09.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VhodPerformer.xaml",
+              "DocumentMoniker": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\VhodPerformer.xaml",
+              "RelativeDocumentMoniker": "DEMO\\VhodPerformer.xaml",
+              "ToolTip": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\VhodPerformer.xaml",
+              "RelativeToolTip": "DEMO\\VhodPerformer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T15:29:09.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VhodAdmin.xaml",
+              "DocumentMoniker": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\VhodAdmin.xaml",
+              "RelativeDocumentMoniker": "DEMO\\VhodAdmin.xaml",
+              "ToolTip": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\VhodAdmin.xaml",
+              "RelativeToolTip": "DEMO\\VhodAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T15:29:09.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DEMO\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DEMO\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAD4vx0AAAAMAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-12T15:29:09.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VhodUser.xaml",
+              "DocumentMoniker": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\VhodUser.xaml",
+              "RelativeDocumentMoniker": "DEMO\\VhodUser.xaml",
+              "ToolTip": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\VhodUser.xaml",
+              "RelativeToolTip": "DEMO\\VhodUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T15:29:09.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DEMO\\MainWindow.xaml",
+              "ToolTip": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\MainWindow.xaml",
+              "RelativeToolTip": "DEMO\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T15:29:09.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.xaml.cs",
+              "DocumentMoniker": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\User.xaml.cs",
+              "RelativeDocumentMoniker": "DEMO\\User.xaml.cs",
+              "ToolTip": "D:\\Coding\\Wpf Apps\\college-practice-application\\DEMO\\User.xaml.cs",
+              "RelativeToolTip": "DEMO\\User.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwDEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:29:09.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
