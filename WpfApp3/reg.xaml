@@ -1,0 +1,36 @@
+﻿<Window x:Class="WpfApp3.reg"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp3"
+        mc:Ignorable="d"
+        Title="reg"  Height="491" Width="522">
+    <Grid>
+        <StackPanel Width="300" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock HorizontalAlignment="Center"  TextAlignment="Center" FontSize="20" FontWeight="Bold" TextWrapping="Wrap" Margin="0 0 0 30"><Run Language="ru-ru" Text="Регистрация"/></TextBlock>
+            <Label Margin="75 0 0 0">Логин:</Label>
+            <TextBox x:Name="login" HorizontalAlignment="Center" TextWrapping="Wrap" Text="" Width="150"/>
+            <Label Margin="75 0 0 0">Пароль:</Label>
+            <PasswordBox x:Name="password" HorizontalAlignment="Center"  VerticalAlignment="Top" Width="150" />
+            <Label Margin="75 0 0 0">Подтвердить пароль:</Label>
+            <PasswordBox  x:Name="repassword" HorizontalAlignment="Center"  VerticalAlignment="Top" Width="150"  />
+            <Label Margin="75 0 0 0">Почта:</Label>
+            <TextBox x:Name="email" HorizontalAlignment="Center"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150" />
+            <Label Margin="75 0 0 0">Роль:</Label>
+            <ComboBox  x:Name="role" HorizontalAlignment="Center" VerticalAlignment="Top" Width="150">
+                <ComboBoxItem>
+                    Пользователь
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    Администратор
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    Исполнитель
+                </ComboBoxItem>
+            </ComboBox>
+            <Button Content="Регистрация" HorizontalAlignment="Center" Click="reg_button" Width="150" Margin="0 10 0 0"/>
+            <Button Content="Вход"  HorizontalAlignment="Center" VerticalAlignment="Top" Width="150" Margin="0 10 0 0" Click="Button_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

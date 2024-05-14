@@ -1,0 +1,48 @@
+﻿<Window x:Class="WpfApp3.lists"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp3"
+        mc:Ignorable="d"
+        Title="Администратор" Height="450" Width="800">
+
+
+    <Grid>
+        
+        <lvc:PieChart Series="{Binding PieSeriesCollection}" LegendLocation="Bottom"  Hoverable="True" Margin="486,110,0,33" Loaded="PieChart_Loaded"/>
+
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <ItemsControl ItemsSource="{Binding Orders}">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border  BorderThickness="1" Margin="5">
+                            <StackPanel HorizontalAlignment="Center" >
+                                <Label Margin="0 0 0 -20">Номер заявки:</Label>
+                                <TextBlock Text="{Binding OrderNumber}"  Margin="90 0 0 0"/>
+                                <Label Margin="0 0 0 -40">ИД пользователя:</Label>
+                                <TextBlock Text="{Binding CustomerName}" FontWeight="Bold" Margin="110 5 0 0"/>
+                                <TextBlock Text="{Binding WorkType}"  Margin="5 5 0 0"/>
+                                <TextBlock Text="{Binding Worker}" Margin="5 5 0 0"/>
+                                <TextBlock Text="{Binding Date}" Margin="5 5 0 0"/>
+                                <TextBlock Text="{Binding Address}" Margin="5 5 0 0"/>
+                                <TextBlock Text="{Binding State}" Margin="5 5 0 0"/>
+                                <Button Width="150" Content="Принять" Click="AcceptButton_Click" Margin="5,5,0,0"/>
+                                <Button Width="150" Content="Отклонить" Click="RejectButton_Click" Margin="5 5 0 0"/>
+                                <Label>Назначить исполнителя:</Label>
+                                <TextBox Width="150" Margin="5 0 0 0"/>
+                                <Button Content="Назначить" Click="AddCommentButton_Click" Width="150" Margin="5,5,0,0"/>
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+    </Grid>
+</Window>

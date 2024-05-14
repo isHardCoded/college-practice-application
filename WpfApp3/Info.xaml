@@ -1,0 +1,45 @@
+﻿<Window x:Class="WpfApp3.Info"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp3"
+        mc:Ignorable="d"
+        Title="Пользователь" Height="612" Width="1016">
+    <Grid>
+
+        <StackPanel HorizontalAlignment="Center">
+            <TextBlock x:Name="usernameLabel" Grid.Column="2" Margin="0 5 0 0" FontWeight="Bold" HorizontalAlignment="Left" TextWrapping="Wrap" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2"/>
+            <TextBlock Grid.Column="3" Margin="0 10 0 5" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="114"><Run Language="ru-ru" Text="Специалист"/><Run Text=":"/></TextBlock>
+            <ComboBox x:Name="specialist" Grid.Column="3" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <ComboBoxItem>Инженер</ComboBoxItem>
+                <ComboBoxItem>Администратор баз данных</ComboBoxItem>
+                <ComboBoxItem>Специалист по сетям</ComboBoxItem>
+                <ComboBoxItem>Разработчик</ComboBoxItem>
+                <ComboBoxItem>Системный аналитик</ComboBoxItem>
+            </ComboBox>
+            <TextBlock Grid.Column="3" Margin="0 10 0 5" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="47"><Run Language="ru-ru" Text="Д"/><Run Text="ата"/><Run Text=":"/></TextBlock>
+            <DatePicker x:Name="Date" Grid.Column="3" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150"/>
+            <TextBlock Grid.Column="3" Margin="0 10 0 5" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="ru-ru" Text="Адрес"/><Run Text=":"/></TextBlock>
+            <TextBox x:Name="adress" Grid.Column="3" HorizontalAlignment="Left" TextWrapping="Wrap"  VerticalAlignment="Top" Width="150"/>
+            <TextBlock Grid.Column="3" Margin="0 10 0 5" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="114"><Run Language="ru-ru" Text="Тип работы"/><Run Text=":"/></TextBlock>
+            <TextBox x:Name="description" Grid.Column="3" HorizontalAlignment="Left" TextWrapping="Wrap"  VerticalAlignment="Top" Width="150"/>
+            <Button Grid.Column="3" Content="Обновить заявку" Margin="0 30 0 0" HorizontalAlignment="Left" Width="150" VerticalAlignment="Top" Click="Update" Grid.ColumnSpan="2"/>
+            <Button Grid.Column="3" Margin="170 -20 0 0" Content="Оставить заявку" HorizontalAlignment="Left" Width="150" VerticalAlignment="Top" Click="Button_Click_1"/>
+            <Button x:Name="ShowQrCodeButton" Margin="340 -20 0 0" Content="Оценить обслуживание" Click="ShowQrCodeButton_Click" Width="150" HorizontalAlignment="Left" Grid.Column="3" RenderTransformOrigin="0.5,0.5">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+            </Button>
+        </StackPanel>
+        <StackPanel Height="300" VerticalAlignment="Bottom">
+            <DataGrid x:Name="GridList" Margin="0 30 0 0" SelectionChanged="DataGrid_SelectionChanged"/>
+        </StackPanel>
+        <Image x:Name="QrCodeImageHolder" Stretch="Uniform" Margin="573,32,224,360"/>
+    </Grid>
+</Window>

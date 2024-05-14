@@ -1,0 +1,170 @@
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\WpfApp3.exe
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\WpfApp3.deps.json
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\WpfApp3.runtimeconfig.json
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\WpfApp3.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\WpfApp3.pdb
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\Info.g.cs
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\reg.g.cs
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3_MarkupCompile.cache
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3_MarkupCompile.lref
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\Info.baml
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\reg.baml
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.g.resources
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.AssemblyInfoInputs.cache
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.AssemblyInfo.cs
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.csproj.Up2Date
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\refint\WpfApp3.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.pdb
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.genruntimeconfig.cache
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\ref\WpfApp3.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\lists.g.cs
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\lists.baml
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WorkPage.g.cs
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WorkPage.baml
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\Игорь\source\repos\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\QRCoder.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\WpfApp3.exe
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\WpfApp3.deps.json
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\WpfApp3.runtimeconfig.json
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\WpfApp3.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\WpfApp3.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\QRCoder.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.csproj.AssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\Info.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\lists.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\reg.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WorkPage.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3_MarkupCompile.cache
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3_MarkupCompile.lref
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\Info.baml
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\lists.baml
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\reg.baml
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WorkPage.baml
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.g.resources
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.AssemblyInfoInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.AssemblyInfo.cs
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.csproj.Up2Date
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\refint\WpfApp3.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\WpfApp3.genruntimeconfig.cache
+C:\Users\kiril\OneDrive\Рабочий стол\WpfApp3\WpfApp3\obj\Debug\net8.0-windows\ref\WpfApp3.dll
