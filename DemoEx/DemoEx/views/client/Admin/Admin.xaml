@@ -1,0 +1,40 @@
+﻿<Page x:Class="DemoEx.views.client.Admin.Admin"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:DemoEx.views.client.Admin"
+      mc:Ignorable="d" 
+      d:DesignHeight="750" d:DesignWidth="800"
+      Title="Admin">
+
+    <Grid Background="White">
+        <StackPanel Margin="10 10 0 0" HorizontalAlignment="Left">
+            <Label>Статус:</Label>
+            <ComboBox x:Name="Status" Width="150">
+                <ComboBoxItem>В работе</ComboBoxItem>
+                <ComboBoxItem>Выполнено</ComboBoxItem>
+            </ComboBox>
+            <Label Margin="0 20 0 0">Выбор исполнителя:</Label>
+            <ComboBox x:Name="Performer" Width="150" Margin="0 0 0 10">
+                <ComboBoxItem>В работе</ComboBoxItem>
+                <ComboBoxItem>Выполнено</ComboBoxItem>
+            </ComboBox>
+            <Button Click="Delete_Click" Margin="0 0 0 5">Удалить</Button>
+            <Button>Сохранить</Button>
+        </StackPanel>
+        <StackPanel VerticalAlignment="Bottom" Height="450">
+            <Label Margin="10 0 0 0" FontWeight="Bold">Заявки:</Label>
+            <DataGrid x:Name="dataGridApp" AutoGenerateColumns="False">
+                <DataGrid.Columns >
+                    <DataGridTextColumn Width="*"  Header="ID" Binding="{Binding ID}"/>
+                    <DataGridTextColumn Width="*"  Header="Дата" Binding="{Binding date}"/>
+                    <DataGridTextColumn Width="*"  Header="Оборудование" Binding="{Binding equipment}"/>
+                    <DataGridTextColumn Width="*"  Header="Неисправность" Binding="{Binding defect}"/>
+                    <DataGridTextColumn Width="*"  Header="Описание" Binding="{Binding description}"/>
+                    <DataGridTextColumn Width="*"  Header="Статус заявки" Binding="{Binding status}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Page>
